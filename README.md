@@ -1,4 +1,4 @@
-#Wine Dataset with PCA and Linear Regression
+# Wine Dataset with PCA and Linear Regression
 Use of Wine dataset (red+white) using PCA and Logistic Regression in order to predict "quality".<br>
 
 ## Data Distribution of quality Feature after joining white and red wines
